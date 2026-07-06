@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Gracie (Zhipei Du) 👋
 
 **Bioinformatician | Data Scientist | Translational Research**
@@ -19,4 +18,3 @@ I am a bioinformatician with an M.Sc. in Bioinformatics and experience developin
 I'm expanding my expertise in **AI, SQL, Data Engineering, and Real-World Evidence (RWE)** while building open-source projects that bridge **bioinformatics, data science, and healthcare**.
 
 📫 Feel free to connect or explore my repositories below.
-```
